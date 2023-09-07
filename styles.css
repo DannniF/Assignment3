@@ -1,12 +1,15 @@
 span {
     display: inline-block;
   }
-  /* span {
+  body {
+    text-align: center;
+  }
+  /* /span {
     display: inline-block;
     background-color: lightblue;
     padding: 5px;
-    border: 1px solid darkgray;
-  } */
+    border: 1px solid darkgray; */
+
   /* 
   #one {
     background-color:lightblue;
